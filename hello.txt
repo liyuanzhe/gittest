@@ -7,3 +7,5 @@ this is hello.txt
 this is first line. David modified.
 this is second line.
 hello world
+
+test revert2
