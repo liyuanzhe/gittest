@@ -1,4 +1,7 @@
 
+Updated upstream
+
+Stashed changes
 this is hello.txt
 this is first line. David modified.
 this is second line.
